@@ -12,7 +12,7 @@ dukungan libass untuk subtitle bergaya
 Dukungan subtitle sekunder (atau ganda)
 Render berkualitas tinggi dengan * pengaturan lanjutan (scaler, debanding, interpolasi, ...)
 * Putar aliran jaringan dengan fungsi "Buka URL"
-* Pemutaran latar belakang, Gambar-dalam-Gambar, input keyboard didukung
+* Pemutaran latar belakang, Picture-in-Picturen(PiP), input keyboard yang didukung
 
 ### Catatan
 Ini hanyalah 
@@ -20,7 +20,7 @@ Tempat backup settingan MPV ANDROID untuk saya pribadi.
 
 
 #### Download
-Bisa didownload melalui link berikut: [Releases section](https://github.com/mpv-android/mpv-android/releases) or
+Bisa didownload melalui link berikut: [Releases section](https://github.com/mpv-android/mpv-android/releases) atau
 
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="Get it on Google Play" height="80">](https://play.google.com/store/apps/details?id=is.xyz.mpv)
 
