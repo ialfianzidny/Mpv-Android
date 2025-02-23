@@ -6,13 +6,14 @@ mpv-android adalah pemutar video berbasis [libmpv](https://github.com/mpv-player
 
 ## Fitur
 
-* Dekode video perangkat keras dan perangkat lunak
+* Dekode video perangkat keras (hardware) dan perangkat lunak (software)
 * Pencarian berbasis gerakan, kontrol volume/kecerahan, dan banyak lagi
-dukungan libass untuk subtitle bergaya
-Dukungan subtitle sekunder (atau ganda)
-Render berkualitas tinggi dengan * pengaturan lanjutan (scaler, debanding, interpolasi, ...)
+dukungan
+* libass untuk subtitle bergaya
+* Dukungan subtitle sekunder (atau ganda)
+* Render berkualitas tinggi dengan pengaturan lanjutan (scaler, debanding, interpolasi, ...)
 * Putar aliran jaringan dengan fungsi "Buka URL"
-* Pemutaran latar belakang, Picture-in-Picturen(PiP), input keyboard yang didukung
+* Pemutaran latar belakang, Picture-in-Picture (PiP), input keyboard yang didukung
 
 ### Catatan
 Ini hanyalah 
