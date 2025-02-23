@@ -14,6 +14,20 @@ Render berkualitas tinggi dengan * pengaturan lanjutan (scaler, debanding, inter
 * Putar aliran jaringan dengan fungsi "Buka URL"
 * Pemutaran latar belakang, Gambar-dalam-Gambar, input keyboard didukung
 
-# Mpv-Android
+### Catatan
 Ini hanyalah 
-Tempat backup settingan MPV ANDROID untuk saya pribadi
+Tempat backup settingan MPV ANDROID untuk saya pribadi.
+
+
+#### Download
+Bisa didownload melalui link berikut: [Releases section](https://github.com/mpv-android/mpv-android/releases) or
+
+[<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="Get it on Google Play" height="80">](https://play.google.com/store/apps/details?id=is.xyz.mpv)
+
+[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" alt="Get it on F-Droid" height="80">](https://f-droid.org/packages/is.xyz.mpv)
+
+**Note**: Android TV sudah support, tapi hanya tersedia di F-Droid atau dengan install secara manual.
+
+
+
+
