@@ -1,0 +1,5 @@
+0x10001 no-osd change-list glsl-shaders set "/storage/emulated/0/LumaSharpenHook.glsl"; show-text "Diaktifkan"
+
+0x10002 quit-watch-later
+
+0x10003 no-osd change-list glsl-shaders clr ""; show-text "Sharpen dinonaktifkan"
